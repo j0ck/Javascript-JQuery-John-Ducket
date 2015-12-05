@@ -18,4 +18,4 @@ else {
     greeting = 'Willkommen';
 }
 
-document.write('<h3>' + greeting + '</h3>');
+document.write('<h1>' + greeting + '</h1>');
