@@ -1,1 +1,1 @@
-# Javascript-JQuery-John-Ducket
+# Javascript-JQuery-John-Duckett
